@@ -1,5 +1,5 @@
 👋 Hi, I’m @Glebitz \
-👀 I’m interested in big data. \
+👀 I’m interested in data analysis. \
 🌱 My Stack: Probability theory, mathematical statistics, Python (numpy, pandas, scipy, matplotlib, seaborn, plotly), Jupyter Notebook / DataSpell, SQL (ClickHouse, PostgreSQL), Git, Tableau, Redash, Miro, Apache Airflow. \
 \
 📫 How to reach me: \
