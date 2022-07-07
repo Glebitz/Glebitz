@@ -1,6 +1,6 @@
 👋 Hi, I’m @Glebitz \
-👀 I’m interested in data analysis and product analytics. \
-🌱 My Technology Stack: Python (pandas, numpy, matplotlib, seaborn, plotly, scipy, pandahouse), Jupyter Notebook, Git, ClickHouse, PostgreSQL, Tableau, Redash, Miro, Airflow \
+👀 I’m interested in big data. \
+🌱 My Stack: Probability theory, mathematical statistics, Python (numpy, pandas, scipy, matplotlib, seaborn, plotly), Jupyter Notebook / DataSpell, SQL (ClickHouse, PostgreSQL), Git, Tableau, Redash, Miro, Apache Airflow. \
 \
 📫 How to reach me: \
         Tel.: +7 (981) 170 29 87 \
